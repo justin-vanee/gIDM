@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this data and code, please cite it as below."
+authors:
+  - family-names: Van Ee
+    given-names: Justin
+    orcid: https://orcid.org/0000-0002-1305-6922
+title: " Geometric overdispersion facilitates the integration of ecological data'"
+version: "v1.0.0"
+doi: 10.5281/zenodo.20128893
+date-released: 2026-05-11
+repository-code: https://github.com/justin-vanee/gIDM
+license: MIT
