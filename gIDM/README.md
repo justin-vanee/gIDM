@@ -80,7 +80,7 @@ Compares posterior distributions of regression coefficients across models and da
 
 ## `algorithms/`
 
-Contains hard-coded MCMC algorithms using Pólya--Gamma augmentation as well as Stan programs used for Hamiltonian Monte Carlo (HMC) fitting.
+Contains hard-coded MCMC algorithms using Pólya-Gamma augmentation as well as Stan programs used for Hamiltonian Monte Carlo (HMC) fitting.
 
 These files are called throughout `gIDM_code.Rmd`.
 
