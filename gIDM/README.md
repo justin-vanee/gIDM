@@ -1,8 +1,7 @@
 # Repository Overview
 
-This repository contains code, processed data, and model outputs for the manuscript:
-
-> *Geometric overdispersion facilitates the integration of ecological data*
+Code and data for fitting models in Methods in Ecology & Evolution paper
+[*Geometric overdispersion facilitates the integration of ecological data*](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70329).
 
 The primary workflow is contained in `gIDM_code.Rmd`, which includes data manipulation, simulation studies, and model fitting for the American robin and brook trout analyses.
 
